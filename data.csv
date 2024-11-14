@@ -220,7 +220,7 @@
 219,Paneles de madera para decoración,,JNI,1,Bueno
 220,Silla de juguería roja,,JNI,1,Bueno
 221,Silla de juguería amarilla,,JNI,1,Bueno
-222,Parante de gigantografía,,JNI,24,Bueno
+222,Parante de gigantografía,,JNI,2,Bueno
 223,Reflector de colores,Marca: AlcaLED,JNI,1,Bueno
 224,Libro de acta 2009-2013,-,JNI,1,Bueno
 225,Libro de acta 1994-2008,-,JNI,1,Bueno
@@ -242,335 +242,337 @@
 241,Paneles JNI Indestructible,,JNI,1,Bueno
 242,Paneles JNI Indestructible,,JNI,4,Bueno
 243,Reflectores de colores,,JNI,1,Bueno
-244,Caja Zeus #120,Color: Gris con tapa roja - Marca: PolinPlast,MANA,1,Bueno
-245,Soporte de Guitarra,Marca: Hercules,MANA,1,Bueno
-246,Soporte de Guitarra,Marca: Hercules,MANA,1,Bueno
-247,Soporte de Guitarra,Marca: Hercules,MANA,1,Bueno
-248,Parante Metalico cantantes,Marca: Tornado,MANA,1,Bueno
-249,Parante Metalico cantantes,Marca: Tornado,MANA,1,Bueno
-250,Parante Metalico cantantes,Marca: Tornado,MANA,1,Bueno
-251,Parante de Microfono Metalico Guitarra electrica,Marca: Hercules,MANA,1,Bueno
-252,Parante de Microfono Metalico Bajo,Marca: Hercules,MANA,1,Bueno
-253,Parante de Microfono Principal Metalico,Marca: Hercules,MANA,1,Bueno
-254,Parante Metalico Laptop,Marca: Hercules,MANA,1,Bueno
-255,Parante Metalico Piano,Marca: Hercules,MANA,1,Bueno
-256, Direct Box IMP2 Guitarra eléctrica,Marca: Whirlwind,MANA,1,Bueno
-257,MicriAmp Ha400,Marca: Behringer,MANA,1,Bueno
-258,Amplificador audifonos de monitor,Marca: Behringer,MANA,1,Bueno
-259,Cobra,Marca: MicroAmp6,MANA,1,Bueno
-260, Direct Box Ultra DI20 Guitarra acustica,Marca: Behringer,MANA,1,Bueno
-261, Direct Box IMP2 Piano,Marca: Whirlwind,MANA,1,Bueno
-262,Cargador Piano 2.0 A,Marca: Roland,MANA,1,Bueno
-263,Pedal Piano,Marca: Roland,MANA,1,Bueno
-264, Direct Box IMP2 Click,Marca: Whirlwind,MANA,1,Bueno
-265, Direct Box IMP2 Secuencia,Marca: Whirlwind,MANA,1,Bueno
-266, Direct Box IMP2 bajo,Marca: Whirlwind,MANA,1,Bueno
-267,Banco de bateria,Marca: Hercules,MANA,1,Bueno
-268,Atril metalico de bateria,Marca: SoundKing,MANA,1,Bueno
-269,Pedestal Hit-Hat,Marca: SoundKing,MANA,1,Bueno
-270,Pedestal Platillo,Marca: SoundKing,MANA,1,Bueno
-271,Pedestal Platillo,Marca: SoundKing,MANA,1,Bueno
-272,Pedestal Platillo,Marca: SoundKing,MANA,1,Bueno
-273,Pedestal de Lluvia,Marca: SoundKing,MANA,1,Bueno
-274,Parante microfono bateria,Marca: SoundKing,MANA,1,Bueno
-275,Parante microfono bateria,Marca: SoundKing,MANA,1,Bueno
-276,Parante microfono bateria,Marca: SoundKing,MANA,1,Bueno
-277,Parante microfono bateria,Marca: SoundKing,MANA,1,Bueno
-278,Ventilador Miray,,MANA,1,Bueno
-279,Cobra de bateria,Marca: Proel,MANA,1,Bueno
-280,Lluvia,,MANA,1,Bueno
-281,Parante guitarra,Marca: Hercules,MANA,1,Bueno
-282,Shake,Marca:LP,MANA,1,Bueno
-283, Direct Box Ultra DI20,Marca: Behringer,MANA,1,Bueno
-284,Laptop IdeaPad 5,Marca: Lenovo - Procesador: Ryzen 7,MANA,1,Bueno
-285,Premio Festina 2023,,MANA,1,Bueno
-286,Microfono inalambrico,Marca: Maxtron,MANA,1,Bueno
-287,Panderete plastico media luna,,MANA,1,Bueno
-288,Pandereta madera redonda,,MANA,1,Bueno
-289,Cable interno,Tipo: XLR macho - XLR hembra,MANA,9,Bueno
-290,Cable monitor musicos,Tipo: TRS - Jack,MANA,1,Bueno
-291,Cable Monitor voces secundarias,Tipo: TRS - TRS,MANA,1,Bueno
-292,Cable Voz Principal,Tipo: XLR macho - XLR hembra,MANA,6,Bueno
-293,Cables cobra a amplicador,Tipo: TRS - XLR hembra,MANA,4,Bueno
-294,Cables voces,Tipo: XLR macho - XLR hembra,MANA,1,Bueno
-295,Cable guitarra acustica,Tipo: Canon - Canon a Direct Box,MANA,1,Bueno
-296,Cable guitarra electrica,Tipo: Canon - Canon a Direct Box,MANA,1,Bueno
-297,Cable bajo,Tipo: XLR macho - XLR hembra,MANA,1,Bueno
-298,Cable piano,Tipo: XLR macho - XLR hembra,MANA,1,Bueno
-299,Cable piano,Tipo: TRS - TRS (Plush),MANA,1,Bueno
-300,Cable guitarra acustica,Tipo: TRS - TRS,MANA,1,Bueno
-301,Cable guitarra electrica,Tipo: TRS - TRS (Plush),MANA,1,Bueno
-302,Cable bajo,Tipo: TRS - TRS (Plush),MANA,7,Bueno
-303,Cables bateria,Tipo: XLR macho - XLR hembra,MANA,1,Bueno
-304,Cable Audio Laptop,Tipo: Push - Jack,MANA,1,Bueno
-305,Cable Secuencia,Tipo: TRS - TRS (Plush),MANA,1,Bueno
-306,Cable Click,Tipo: TRS - TRS (Plush),MANA,1,Bueno
-307,Cable Secuencia,Tipo: XLR macho - XLR hembra,MANA,1,Bueno
-308,Cable Click,Tipo: XLR macho - XLR hembra,MANA,1,Bueno
-309,Hit-Hat,Marca: PDP,MANA,1,Bueno
-310,Tarola,Marca: PDP,MANA,1,Bueno
-311,Tom 1,Marca: PDP,MANA,1,Bueno
-312,Napoleón,Marca: PDP,MANA,1,Bueno
-313,Bombo,Marca: PDP,MANA,1,Bueno
-314,Platillo 1,Marca: PDP,MANA,1,Bueno
-315,Platillo 2,Marca: PDP,MANA,1,Bueno
-316,Crash,Marca: PDP,MANA,1,Bueno
-317,Cable corto,Tipo: XLR macho - XLR hembra,MANA,1,Bueno
-318,Piano de vaca,Marca: Roland - Modelo: FA07,MANA,1,Bueno
-319,Guitarra electroacustica,Marca: Cort - Modelo: CSFX10,MANA,1,Bueno
-320,Guitarra electrica,Marca: Cort - Modelo: M600,MANA,1,Bueno
-321,Bajo,Marca: Cort - Modelo: A5,MANA,1,Bueno
-322,Armario Mayordomos,Material: melamina,Mayordomos,1,Bueno
-323,Pulpito,Material: vidrio,Mayordomos,1,Bueno
-324,Bandeja Santa Cena,Material: Vidrio,Mayordomos,1,Bueno
-325,Bandeja metalica,Ovalada,Mayordomos,1,Bueno
-326,Bandeja metalica,Ovalada,Mayordomos,1,Bueno
-327,Bandeja metalica,redonda,Mayordomos,1,Bueno
-328,Bandeja metalica,redonda,Mayordomos,1,Bueno
-329,Bandeja metalica,redonda,Mayordomos,1,Bueno
-330,Bandeja metalica,redonda,Mayordomos,1,Bueno
-331,Bandeja metalica,Rectangular,Mayordomos,1,Bueno
-332,Bandeja metalica,Rectangular,Mayordomos,1,Bueno
-333,Bandeja metalica,Rectangular,Mayordomos,1,Bueno
-334,Bandeja metalica,Rectangular,Mayordomos,1,Bueno
-335,Bandeja metalica,Rectangular,Mayordomos,1,Bueno
-336,Bandeja metalica,Rectangular,Mayordomos,1,Bueno
-337,Bandeja metalica,Rectangular,Mayordomos,1,Bueno
-338,Bandeja metalica,Rectangular,Mayordomos,1,Bueno
-339,Jarra plastica,Marca: Reyplast 0.5L,Mayordomos,1,Bueno
-340,Jarra plastica,Marca: Mabplast 0.5L,Mayordomos,1,Bueno
-341,Jarra plastica,Marca: Reyplast 0.25L,Mayordomos,1,Bueno
-342,Contenedores de tuincas para bautismo,Marca: Reyplast,Mayordomos,1,Bueno
-343,Contenedores de tuincas para bautismo,Marca: Reyplast,Mayordomos,1,Bueno
-344,Balde comercial,Marca: Reyplast 2 Gl.,Mayordomos,1,Bueno
-345,Bombo,Madera oscura,MED,1,Bueno
-346,Bombo,Madera clara,MED,1,Bueno
-347,Megafono,Marca: Megaphone,MED,1,Bueno
-348,Balde,Marca: Rey - 20 litros,MED,1,Bueno
-349,Pandereta,,MED,1,Bueno
-350,Pandereta,,MED,1,Bueno
-351,Pandereta,,MED,1,Bueno
-352,Pandereta,,MED,1,Bueno
-353,Conversor de voltaje,Marca: Kazo,MED,1,Bueno
-354,Extension,Cable mellizo,MED,1,Bueno
-355,Extension,Cable plomo,MED,1,Bueno
-356,Caja de extensiones,Caja blanca,MED,1,Bueno
-357,Parante,Soporte tres patas - color plomo,MED,1,Bueno
-358,Parante,Soporte de paralante - colo negro,MED,1,Bueno
-359,Carrito,Material: Aluminio - con dos ruedas,MED,1,Bueno
-360,Paralante inalambrico,Marca: MTZ sonido profesional - Potencia: 3200W,MED,1,Bueno
-361,Microfono alambrico,Marca: Shure,MED,1,Bueno
-362,Microfono inalambrico,,MED,1,Bueno
-363,Microfono inalambrico,,MED,1,Bueno
-364,Paralante inalambrico,Marca: Dairo,MED,1,Bueno
-365,Microfono inalambrico,De paralante Dairo,MED,1,Bueno
-366,Cargador parlante Dairo,,MED,1,Bueno
-367,Tarola,Color rojo,MED,1,Bueno
-368,Jarra eléctrica,Color naranja,MED,1,Bueno
-369,CPU (Multimedia),Marca: Halion,Ministerio de comunicaciones,1,Bueno
-370,Monitor (Multimedia),Marca: HP,Ministerio de comunicaciones,1,Bueno
-371,Teclado (Multimedia),Marca: Halion,Ministerio de comunicaciones,1,Bueno
-372,Mouse (Multimedia),Marca: Halion,Ministerio de comunicaciones,1,Bueno
-373,Monitor (Transmisión),Marca: LG,Ministerio de comunicaciones,1,Bueno
-374,Monitor (Transmisión),Marca: AOC,Ministerio de comunicaciones,1,Bueno
-375,CPU  (Transmisión),Marca: Halion,Ministerio de comunicaciones,1,Bueno
-376,Teclado (Transmisión),Marca: Halion,Ministerio de comunicaciones,1,Bueno
-377,Mouse (Transmisión),Marca: Halion,Ministerio de comunicaciones,1,Bueno
-378,Silla ergonómica (Multimedia),Marca: HC Home,Ministerio de comunicaciones,1,Bueno
-379,Silla ergonómica (Transmisión),Marca: HC Home,Ministerio de comunicaciones,1,Bueno
-380,Monitor de estudio - L (sonido) ,Marca: KRK Systmes,Ministerio de comunicaciones,1,Bueno
-381,Monitor de estudio - R (sonido) ,Marca: KRK Systmes,Ministerio de comunicaciones,1,Bueno
-382,Tarjeta de audio (Sonido),Marca: U-PHORIA BEHRINGER,Ministerio de comunicaciones,1,Bueno
-383,Consola de sonido,Marca: BEHRINGER MX32,Ministerio de comunicaciones,1,Bueno
-384,Micrófono de estudio (Transmisión),Marca: AKG P120,Ministerio de comunicaciones,1,Bueno
-385,Pedestal de micrófono (Transmisión),Color Negro,Ministerio de comunicaciones,1,Bueno
-386,Crossover (Sonido),Marca: BEHRINGER DCX2496,Ministerio de comunicaciones,1,Bueno
-387,Amplificador de potencia (Sonido),Marca: BEHRINGER Europower EP2000,Ministerio de comunicaciones,1,Bueno
-388,Amplificador de potencia (Sonido),Marca: BEHRINGER Europower EP2000,Ministerio de comunicaciones,1,Bueno
-389,Amplificador de potencia (Sonido),Marca: Topp PRO TRX2500,Ministerio de comunicaciones,1,Bueno
-390,Amplificador de potencia (Sonido),Marca: CROWN C2000,Ministerio de comunicaciones,1,Bueno
-391,Amplificador de potencia (Sonido),Marca: Topp PRO TRX1500,Ministerio de comunicaciones,1,Bueno
-392,Protector vertical de amplificador,Marca: AMP,Ministerio de comunicaciones,1,Bueno
-393,Sistema de micrófono dual inhalámbrico (Audio),Marca: Izuum,Ministerio de comunicaciones,2,Bueno
-394,Audífonos (Camarógrafos),Marca: HALION H830,Ministerio de comunicaciones,1,Bueno
-395,Audífonos (Camarógrafos),Marca: HALION H830,Ministerio de comunicaciones,1,Bueno
-396,Audífonos (Camarógrafos),Marca: Cybertel,Ministerio de comunicaciones,1,Bueno
-397,Router (Sonido),Marca: Huawei WS5200,Ministerio de comunicaciones,1,Bueno
-398,Mini consola (Transmisión),Marca: JIELI BR21,Ministerio de comunicaciones,1,Bueno
-399,Cámara de acción ,Marca: GOPRO HIRO BLACK 7,Ministerio de comunicaciones,1,Bueno
-400,Videocámara, Marca: CANNON VIXIA HF650 4K - estuche y accesorios,Ministerio de comunicaciones,1,Bueno
-401,Videocámara y accesorios,Marca: SONNY HDR CX405 HANDYCAN,Ministerio de comunicaciones,1,Bueno
-402,Cargador de pilas,Marca: DURACELL,Ministerio de comunicaciones,1,Bueno
-403,Capturador de video,Marca: Elgato y 2 genéricos,Ministerio de comunicaciones,3,Bueno
-404,Cable converter 2 en 1,Marca: Genérico,Ministerio de comunicaciones,1,Bueno
-405,Trípode  estuche,Marca: Weifen 6663a,Ministerio de comunicaciones,1,Bueno
-406,Trípode  estuche,Marca: Weifen 6663a,Ministerio de comunicaciones,1,Bueno
-407,Trípode  estuche,Marca: Weifen 6663a,Ministerio de comunicaciones,1,Bueno
-408,Trípode,Marca: Vanguard,Ministerio de comunicaciones,1,Bueno
-409,Cámara fotográfica,Marca: Olympus,Ministerio de comunicaciones,1,Bueno
-410,Cámara de acción ,Marca: GO PRO White,Ministerio de comunicaciones,1,Bueno
-411,Ventilador,Marca: Recco,Ministerio de comunicaciones,1,Bueno
-412,Mesa,Tipo: Madera marrón,Ministerio de comunicaciones,1,Bueno
-413,Mesa,Tipo: Madera marrón,Ministerio de comunicaciones,1,Bueno
-414,Mesa,Tipo: Madera roja,Ministerio de comunicaciones,1,Bueno
-415,Platos de sopa,,MNI,1,Bueno
-416,Herbidor,,MNI,1,Bueno
-417,Himnario Gracia y Devoción,,MNI,1,Bueno
-418,Himnario Gracia y Devoción,,MNI,1,Bueno
-419,Himnario Gracia y Devoción,,MNI,1,Bueno
-420,Himnario Gracia y Devoción,,MNI,1,Bueno
-421,Himnario Gracia y Devoción,,MNI,1,Bueno
-422,Himnario Gracia y Devoción,,MNI,1,Bueno
-423,Himnario Gracia y Devoción,,MNI,1,Bueno
-424,Himnario Gracia y Devoción,,MNI,1,Bueno
-425,Himnario Gracia y Devoción,,MNI,1,Bueno
-426,Himnario Gracia y Devoción,,MNI,1,Bueno
+244,Pizarra acrilica,,Joyitas de Cristo II,1,Bueno
+245,Mesas blancas,,Joyitas de Cristo II,6,Bueno
+246,Sillas amarillas,Madera,Joyitas de Cristo II,22,Bueno
+247,Silla oficina,,Joyitas de Cristo II,1,Bueno
+248,TV Daewoo,,Joyitas de Cristo II,1,Bueno
+249,DVD,Marca: Samsung,Joyitas de Cristo II,1,Bueno
+250,Rack TV y DVD,,Joyitas de Cristo II,1,Bueno
+251,Alacena,,Joyitas de Cristo II,1,Bueno
+252,Armario Tesoreria,Madera,Joyitas de Cristo II,1,Bueno
+253,Tacho Rey,Buzon #20,Joyitas de Cristo II,1,Bueno
+254,Caja Zeus #120,Color: Gris con tapa roja - Marca: PolinPlast,MANA,1,Bueno
+255,Soporte de Guitarra,Marca: Hercules,MANA,1,Bueno
+256,Soporte de Guitarra,Marca: Hercules,MANA,1,Bueno
+257,Soporte de Guitarra,Marca: Hercules,MANA,1,Bueno
+258,Parante Metalico cantantes,Marca: Tornado,MANA,1,Bueno
+259,Parante Metalico cantantes,Marca: Tornado,MANA,1,Bueno
+260,Parante Metalico cantantes,Marca: Tornado,MANA,1,Bueno
+261,Parante de Microfono Metalico Guitarra electrica,Marca: Hercules,MANA,1,Bueno
+262,Parante de Microfono Metalico Bajo,Marca: Hercules,MANA,1,Bueno
+263,Parante de Microfono Principal Metalico,Marca: Hercules,MANA,1,Bueno
+264,Parante Metalico Laptop,Marca: Hercules,MANA,1,Bueno
+265,Parante Metalico Piano,Marca: Hercules,MANA,1,Bueno
+266, Direct Box IMP2 Guitarra eléctrica,Marca: Whirlwind,MANA,1,Bueno
+267,MicriAmp Ha400,Marca: Behringer,MANA,1,Bueno
+268,Amplificador audifonos de monitor,Marca: Behringer,MANA,1,Bueno
+269,Cobra,Marca: MicroAmp6,MANA,1,Bueno
+270, Direct Box Ultra DI20 Guitarra acustica,Marca: Behringer,MANA,1,Bueno
+271, Direct Box IMP2 Piano,Marca: Whirlwind,MANA,1,Bueno
+272,Cargador Piano 2.0 A,Marca: Roland,MANA,1,Bueno
+273,Pedal Piano,Marca: Roland,MANA,1,Bueno
+274, Direct Box IMP2 Click,Marca: Whirlwind,MANA,1,Bueno
+275, Direct Box IMP2 Secuencia,Marca: Whirlwind,MANA,1,Bueno
+276, Direct Box IMP2 bajo,Marca: Whirlwind,MANA,1,Bueno
+277,Banco de bateria,Marca: Hercules,MANA,1,Bueno
+278,Atril metalico de bateria,Marca: SoundKing,MANA,1,Bueno
+279,Pedestal Hit-Hat,Marca: SoundKing,MANA,1,Bueno
+280,Pedestal Platillo,Marca: SoundKing,MANA,1,Bueno
+281,Pedestal Platillo,Marca: SoundKing,MANA,1,Bueno
+282,Pedestal Platillo,Marca: SoundKing,MANA,1,Bueno
+283,Pedestal de Lluvia,Marca: SoundKing,MANA,1,Bueno
+284,Parante microfono bateria,Marca: SoundKing,MANA,1,Bueno
+285,Parante microfono bateria,Marca: SoundKing,MANA,1,Bueno
+286,Parante microfono bateria,Marca: SoundKing,MANA,1,Bueno
+287,Parante microfono bateria,Marca: SoundKing,MANA,1,Bueno
+288,Ventilador Miray,,MANA,1,Bueno
+289,Cobra de bateria,Marca: Proel,MANA,1,Bueno
+290,Lluvia,,MANA,1,Bueno
+291,Parante guitarra,Marca: Hercules,MANA,1,Bueno
+292,Shake,Marca:LP,MANA,1,Bueno
+293, Direct Box Ultra DI20,Marca: Behringer,MANA,1,Bueno
+294,Laptop IdeaPad 5,Marca: Lenovo - Procesador: Ryzen 7,MANA,1,Bueno
+295,Premio Festina 2023,,MANA,1,Bueno
+296,Microfono inalambrico,Marca: Maxtron,MANA,1,Bueno
+297,Panderete plastico media luna,,MANA,1,Bueno
+298,Pandereta madera redonda,,MANA,1,Bueno
+299,Cable interno,Tipo: XLR macho - XLR hembra,MANA,9,Bueno
+300,Cable monitor musicos,Tipo: TRS - Jack,MANA,1,Bueno
+301,Cable Monitor voces secundarias,Tipo: TRS - TRS,MANA,1,Bueno
+302,Cable Voz Principal,Tipo: XLR macho - XLR hembra,MANA,6,Bueno
+303,Cables cobra a amplicador,Tipo: TRS - XLR hembra,MANA,4,Bueno
+304,Cables voces,Tipo: XLR macho - XLR hembra,MANA,1,Bueno
+305,Cable guitarra acustica,Tipo: Canon - Canon a Direct Box,MANA,1,Bueno
+306,Cable guitarra electrica,Tipo: Canon - Canon a Direct Box,MANA,1,Bueno
+307,Cable bajo,Tipo: XLR macho - XLR hembra,MANA,1,Bueno
+308,Cable piano,Tipo: XLR macho - XLR hembra,MANA,1,Bueno
+309,Cable piano,Tipo: TRS - TRS (Plush),MANA,1,Bueno
+310,Cable guitarra acustica,Tipo: TRS - TRS,MANA,1,Bueno
+311,Cable guitarra electrica,Tipo: TRS - TRS (Plush),MANA,1,Bueno
+312,Cable bajo,Tipo: TRS - TRS (Plush),MANA,7,Bueno
+313,Cables bateria,Tipo: XLR macho - XLR hembra,MANA,1,Bueno
+314,Cable Audio Laptop,Tipo: Push - Jack,MANA,1,Bueno
+315,Cable Secuencia,Tipo: TRS - TRS (Plush),MANA,1,Bueno
+316,Cable Click,Tipo: TRS - TRS (Plush),MANA,1,Bueno
+317,Cable Secuencia,Tipo: XLR macho - XLR hembra,MANA,1,Bueno
+318,Cable Click,Tipo: XLR macho - XLR hembra,MANA,1,Bueno
+319,Hit-Hat,Marca: PDP,MANA,1,Bueno
+320,Tarola,Marca: PDP,MANA,1,Bueno
+321,Tom 1,Marca: PDP,MANA,1,Bueno
+322,Napoleón,Marca: PDP,MANA,1,Bueno
+323,Bombo,Marca: PDP,MANA,1,Bueno
+324,Platillo 1,Marca: PDP,MANA,1,Bueno
+325,Platillo 2,Marca: PDP,MANA,1,Bueno
+326,Crash,Marca: PDP,MANA,1,Bueno
+327,Cable corto,Tipo: XLR macho - XLR hembra,MANA,1,Bueno
+328,Piano de vaca,Marca: Roland - Modelo: FA07,MANA,1,Bueno
+329,Guitarra electroacustica,Marca: Cort - Modelo: CSFX10,MANA,1,Bueno
+330,Guitarra electrica,Marca: Cort - Modelo: M600,MANA,1,Bueno
+331,Bajo,Marca: Cort - Modelo: A5,MANA,1,Bueno
+332,Armario Mayordomos,Material: melamina,Mayordomos,1,Bueno
+333,Pulpito,Material: vidrio,Mayordomos,1,Bueno
+334,Bandeja Santa Cena,Material: Vidrio,Mayordomos,1,Bueno
+335,Bandeja metalica,Ovalada,Mayordomos,1,Bueno
+336,Bandeja metalica,Ovalada,Mayordomos,1,Bueno
+337,Bandeja metalica,redonda,Mayordomos,1,Bueno
+338,Bandeja metalica,redonda,Mayordomos,1,Bueno
+339,Bandeja metalica,redonda,Mayordomos,1,Bueno
+340,Bandeja metalica,redonda,Mayordomos,1,Bueno
+341,Bandeja metalica,Rectangular,Mayordomos,1,Bueno
+342,Bandeja metalica,Rectangular,Mayordomos,1,Bueno
+343,Bandeja metalica,Rectangular,Mayordomos,1,Bueno
+344,Bandeja metalica,Rectangular,Mayordomos,1,Bueno
+345,Bandeja metalica,Rectangular,Mayordomos,1,Bueno
+346,Bandeja metalica,Rectangular,Mayordomos,1,Bueno
+347,Bandeja metalica,Rectangular,Mayordomos,1,Bueno
+348,Bandeja metalica,Rectangular,Mayordomos,1,Bueno
+349,Jarra plastica,Marca: Reyplast 0.5L,Mayordomos,1,Bueno
+350,Jarra plastica,Marca: Mabplast 0.5L,Mayordomos,1,Bueno
+351,Jarra plastica,Marca: Reyplast 0.25L,Mayordomos,1,Bueno
+352,Contenedores de tuincas para bautismo,Marca: Reyplast,Mayordomos,1,Bueno
+353,Contenedores de tuincas para bautismo,Marca: Reyplast,Mayordomos,1,Bueno
+354,Balde comercial,Marca: Reyplast 2 Gl.,Mayordomos,1,Bueno
+355,Bombo,Madera oscura,MED,1,Bueno
+356,Bombo,Madera clara,MED,1,Bueno
+357,Megafono,Marca: Megaphone,MED,1,Bueno
+358,Balde,Marca: Rey - 20 litros,MED,1,Bueno
+359,Pandereta,,MED,1,Bueno
+360,Pandereta,,MED,1,Bueno
+361,Pandereta,,MED,1,Bueno
+362,Pandereta,,MED,1,Bueno
+363,Conversor de voltaje,Marca: Kazo,MED,1,Bueno
+364,Extension,Cable mellizo,MED,1,Bueno
+365,Extension,Cable plomo,MED,1,Bueno
+366,Caja de extensiones,Caja blanca,MED,1,Bueno
+367,Parante,Soporte tres patas - color plomo,MED,1,Bueno
+368,Parante,Soporte de paralante - colo negro,MED,1,Bueno
+369,Carrito,Material: Aluminio - con dos ruedas,MED,1,Bueno
+370,Paralante inalambrico,Marca: MTZ sonido profesional - Potencia: 3200W,MED,1,Bueno
+371,Microfono alambrico,Marca: Shure,MED,1,Bueno
+372,Microfono inalambrico,,MED,1,Bueno
+373,Microfono inalambrico,,MED,1,Bueno
+374,Paralante inalambrico,Marca: Dairo,MED,1,Bueno
+375,Microfono inalambrico,De paralante Dairo,MED,1,Bueno
+376,Cargador parlante Dairo,,MED,1,Bueno
+377,Tarola,Color rojo,MED,1,Bueno
+378,Jarra eléctrica,Color naranja,MED,1,Bueno
+379,CPU (Multimedia),Marca: Halion,Ministerio de comunicaciones,1,Bueno
+380,Monitor (Multimedia),Marca: HP,Ministerio de comunicaciones,1,Bueno
+381,Teclado (Multimedia),Marca: Halion,Ministerio de comunicaciones,1,Bueno
+382,Mouse (Multimedia),Marca: Halion,Ministerio de comunicaciones,1,Bueno
+383,Monitor (Transmisión),Marca: LG,Ministerio de comunicaciones,1,Bueno
+384,Monitor (Transmisión),Marca: AOC,Ministerio de comunicaciones,1,Bueno
+385,CPU  (Transmisión),Marca: Halion,Ministerio de comunicaciones,1,Bueno
+386,Teclado (Transmisión),Marca: Halion,Ministerio de comunicaciones,1,Bueno
+387,Mouse (Transmisión),Marca: Halion,Ministerio de comunicaciones,1,Bueno
+388,Silla ergonómica (Multimedia),Marca: HC Home,Ministerio de comunicaciones,1,Bueno
+389,Silla ergonómica (Transmisión),Marca: HC Home,Ministerio de comunicaciones,1,Bueno
+390,Monitor de estudio - L (sonido) ,Marca: KRK Systmes,Ministerio de comunicaciones,1,Bueno
+391,Monitor de estudio - R (sonido) ,Marca: KRK Systmes,Ministerio de comunicaciones,1,Bueno
+392,Tarjeta de audio (Sonido),Marca: U-PHORIA BEHRINGER,Ministerio de comunicaciones,1,Bueno
+393,Consola de sonido,Marca: BEHRINGER MX32,Ministerio de comunicaciones,1,Bueno
+394,Micrófono de estudio (Transmisión),Marca: AKG P120,Ministerio de comunicaciones,1,Bueno
+395,Pedestal de micrófono (Transmisión),Color Negro,Ministerio de comunicaciones,1,Bueno
+396,Crossover (Sonido),Marca: BEHRINGER DCX2496,Ministerio de comunicaciones,1,Bueno
+397,Amplificador de potencia (Sonido),Marca: BEHRINGER Europower EP2000,Ministerio de comunicaciones,1,Bueno
+398,Amplificador de potencia (Sonido),Marca: BEHRINGER Europower EP2000,Ministerio de comunicaciones,1,Bueno
+399,Amplificador de potencia (Sonido),Marca: Topp PRO TRX2500,Ministerio de comunicaciones,1,Bueno
+400,Amplificador de potencia (Sonido),Marca: CROWN C2000,Ministerio de comunicaciones,1,Bueno
+401,Amplificador de potencia (Sonido),Marca: Topp PRO TRX1500,Ministerio de comunicaciones,1,Bueno
+402,Protector vertical de amplificador,Marca: AMP,Ministerio de comunicaciones,1,Bueno
+403,Sistema de micrófono dual inhalámbrico (Audio),Marca: Izuum,Ministerio de comunicaciones,2,Bueno
+404,Audífonos (Camarógrafos),Marca: HALION H830,Ministerio de comunicaciones,1,Bueno
+405,Audífonos (Camarógrafos),Marca: HALION H830,Ministerio de comunicaciones,1,Bueno
+406,Audífonos (Camarógrafos),Marca: Cybertel,Ministerio de comunicaciones,1,Bueno
+407,Router (Sonido),Marca: Huawei WS5200,Ministerio de comunicaciones,1,Bueno
+408,Mini consola (Transmisión),Marca: JIELI BR21,Ministerio de comunicaciones,1,Bueno
+409,Cámara de acción ,Marca: GOPRO HIRO BLACK 7,Ministerio de comunicaciones,1,Bueno
+410,Videocámara, Marca: CANNON VIXIA HF650 4K - estuche y accesorios,Ministerio de comunicaciones,1,Bueno
+411,Videocámara y accesorios,Marca: SONNY HDR CX405 HANDYCAN,Ministerio de comunicaciones,1,Bueno
+412,Cargador de pilas,Marca: DURACELL,Ministerio de comunicaciones,1,Bueno
+413,Capturador de video,Marca: Elgato y 2 genéricos,Ministerio de comunicaciones,3,Bueno
+414,Cable converter 2 en 1,Marca: Genérico,Ministerio de comunicaciones,1,Bueno
+415,Trípode  estuche,Marca: Weifen 6663a,Ministerio de comunicaciones,1,Bueno
+416,Trípode  estuche,Marca: Weifen 6663a,Ministerio de comunicaciones,1,Bueno
+417,Trípode  estuche,Marca: Weifen 6663a,Ministerio de comunicaciones,1,Bueno
+418,Trípode,Marca: Vanguard,Ministerio de comunicaciones,1,Bueno
+419,Cámara fotográfica,Marca: Olympus,Ministerio de comunicaciones,1,Bueno
+420,Cámara de acción ,Marca: GO PRO White,Ministerio de comunicaciones,1,Bueno
+421,Ventilador,Marca: Recco,Ministerio de comunicaciones,1,Bueno
+422,Mesa,Tipo: Madera marrón,Ministerio de comunicaciones,1,Bueno
+423,Mesa,Tipo: Madera marrón,Ministerio de comunicaciones,1,Bueno
+424,Mesa,Tipo: Madera roja,Ministerio de comunicaciones,1,Bueno
+425,Platos de sopa,,MNI,1,Bueno
+426,Herbidor,,MNI,1,Bueno
 427,Himnario Gracia y Devoción,,MNI,1,Bueno
 428,Himnario Gracia y Devoción,,MNI,1,Bueno
 429,Himnario Gracia y Devoción,,MNI,1,Bueno
-430,Juego de letras,,MNI,1,Bueno
-431,Alfombra para el altar,,MNI,1,Bueno
-432,Engrapadora,,MNI,1,Bueno
-433,Libro de actas MNI 2010-2011,,MNI,1,Bueno
+430,Himnario Gracia y Devoción,,MNI,1,Bueno
+431,Himnario Gracia y Devoción,,MNI,1,Bueno
+432,Himnario Gracia y Devoción,,MNI,1,Bueno
+433,Himnario Gracia y Devoción,,MNI,1,Bueno
 434,Himnario Gracia y Devoción,,MNI,1,Bueno
-435,Libro de actas MNI 2003-2010,,MNI,1,Bueno
-436,Libro de actas MNI 2006-2012,,MNI,1,Bueno
-437,Libro de actas MNI 2010-2017,,MNI,1,Bueno
-438,Libro de actas MNI 1987-2003,,MNI,1,Bueno
-439,Manual Iglesia del Nazareno 2017-2021,Literatura,MNI,1,Bueno
-440,Historia de la Iglesia del Nazareno en el Perú,Literatura,MNI,1,Bueno
-441,El Camino hacia el matrimonio feliz,Literatura,MNI,1,Bueno
-442,Guía de Educación Misionera 2011,Literatura,MNI,1,Bueno
-443,Guía de Educación Misionera 2017-2018,Literatura,MNI,1,Bueno
-444,Guía de Educación Misionera 2002,Literatura,MNI,1,Bueno
-445,Cancionero con acordes,Literatura,MNI,1,Bueno
-446,La historia más immportante del mundo,Literatura,MNI,1,Bueno
-447,Humo que truena,Literatura,MNI,1,Bueno
-448,Himnario Gracia y Devoción,,MNI,1,Bueno
-449,Himnario Gracia y Devoción,,MNI,1,Bueno
-450,Himnario Gracia y Devoción,,MNI,1,Bueno
-451,Himnario Gracia y Devoción,,MNI,1,Bueno
-452,Anya@Rusia.com,Literatura,MNI,1,Bueno
-453,Canasta para ofrenda,,MNI,1,Bueno
-454,Canasta para ofrenda,,MNI,1,Bueno
-455,Armario,,MNI,1,Bueno
-456,Escritorio de oficina,,Oficina Pastoral,1,Bueno
-457,Sillón de Oficina,,Oficina Pastoral,1,Bueno
-458,Estante Madera,5 repisas,Oficina Pastoral,1,Bueno
-459,Estante Melamina,13 repisas,Oficina Pastoral,1,Bueno
-460,Lockers de metal,16 cajones,Oficina Pastoral,1,Bueno
-461,Sillas de madera,,Oficina Pastoral,2,Bueno
-462,Armario de madera,,Oficina Pastoral,2,Bueno
-463,Cooler para laptop,,Oficina Pastoral,1,Bueno
-464,Laptop,Marca: HP,Oficina Pastoral,1,Bueno
-465,Monitor Samsung,,Oficina Pastoral,1,Bueno
-466,CPU,Marca: Samsung,Oficina Pastoral,2,Bueno
-467,Fuente de poder,,Oficina Pastoral,2,Bueno
-468,Web Cam,,Oficina Pastoral,1,Bueno
-469,Teclado,Marca: Philips,Oficina Pastoral,1,Bueno
-470,Ventilador,Marca: Imaco,Oficina Pastoral,1,Bueno
-471,Jarra eléctrica,,Oficina Pastoral,1,Bueno
-472,Mouse,Marca: Samsung,Oficina Pastoral,1,Bueno
-473,Tacho de basura, Pequeño de pie,Oficina Pastoral,1,Bueno
-474,Reloj digital,,Oficina Pastoral,1,Bueno
-475,Pizarra mediana,,Oficina Pastoral,1,Bueno
-476,Sillas Blancas,,Oficina Pastoral,6,Bueno
-477,Impresora,Marca: Epson L3150,Oficina Pastoral,1,Bueno
-478,Sillas Individuales,Estructura de metal con trablero y respaldar de madera,Salon de adolescentes,9,Bueno
-479,Pizarra acrilica,,Salon de adolescentes,1,Bueno
-480,Cesto de ropa,Multiusos redondo - Marca: Rey,Salon de adolescentes,1,Bueno
-481,Cesto gigante,Marca: Trebol,Salon de adolescentes,1,Bueno
-482,Ventilador,Marca: Khor,Salon de adolescentes,1,Bueno
-483,Pizarra acrilica,,Salon de juntas,1,Bueno
-484,Mesas blancas,,Salon de juntas,6,Bueno
-485,Sillas amarillas,Madera,Salon de juntas,22,Bueno
-486,Silla oficina,,Salon de juntas,1,Bueno
-487,TV Daewoo,,Salon de juntas,1,Bueno
-488,DVD,Marca: Samsung,Salon de juntas,1,Bueno
-489,Rack TV y DVD,,Salon de juntas,1,Bueno
-490,Alacena,,Salon de juntas,1,Bueno
-491,Armario Tesoreria,Madera,Salon de juntas,1,Bueno
-492,Tacho Rey,Buzon #20,Salon de juntas,1,Bueno
-493,Trípode,Marca: Roadtrip,Salón de reuniones,1,Bueno
-494,Micrófono de estudio (Transmisión),Marca: BEHRINGER color dorado,Salón de reuniones,1,Bueno
-495,Set de Luces de fotografía,Marca: Genérico,Salón de reuniones,1,Bueno
-496,Mesa roja,,Salon DNI,1,Bueno
-497,Armario rojo,(locker),Salon DNI,1,Bueno
-498,Armario DNI,Material: Melamina,Salon DNI,1,Bueno
-499,Pizarra acrilica,,Salon Luminares de Cristo,1,Bueno
-500,Mesas amarillas,Hechas de madera,Salon Luminares de Cristo,5,Bueno
-501,Sillas amarillas,Hechas de madera,Salon Luminares de Cristo,5,Bueno
-502,Ventilador,Marca: Imaco,Salon Luminares de Cristo,1,Aceptable
-503,Sillas madera,Para maestros,Salon Luminares de Cristo,2,Bueno
-504,Caja,Botiquin,Salon Luminares de Cristo,1,Aceptable
-505,Pizarra acrilica,,Salon Mas que vencedores,1,Bueno
-506,Mesa blanca,Uso del maestro,Salon Mas que vencedores,1,Bueno
-507,Sillas Individuales,Estructura de metal con trablero y respaldar de madera,Salon Mas que vencedores,12,Bueno
-508,Ventilador,Marca: Miray VMP-521,Salon Mas que vencedores,1,Bueno
-509,Armario de madera,Puerta vidrio y madera,Salon Mas que vencedores,1,Bueno
-510,Papelera Cosmos,Marca: Rey - tamaño: #15,Salon Mas que vencedores,1,Bueno
-511,Silla madera,,Secretaria,1,Bueno
-512,Mesa pequeña,,Secretaria,1,Bueno
-513,Estante de pared,2 puertas,Secretaria,1,Bueno
-514,Lockers de metal,4 cajones,Secretaria,1,Bueno
-515,Gillotina,,Secretaria,1,Bueno
-516,Llavero,Madera,Secretaria,1,Bueno
-517,Fotocopiadora,Marca: Konica Minolta Bizhub 215,Secretaria,1,Bueno
-518,Soporte de pared,Pequeño,Secretaria,1,Bueno
-519,Telefono,Gigaset,Secretaria,1,Bueno
-520,Mesa blanca,Para fotocopiadora,Secretaria,1,Bueno
-521,Mesa de vidrio,Para computadora e impresora,Secretaria,1,Bueno
-522,Monitor Samsung,SyncMaster 9328w,Secretaria,1,Bueno
-523,Impresora,Marca: Brother DCP-T7200w,Secretaria,1,Bueno
-524,Teclado,Marca: Philips,Secretaria,1,Bueno
-525,Mouse,Marca: Philips,Secretaria,1,Bueno
-526,CPU,Marca: Cooler Master,Secretaria,1,Bueno
-527,Silla de ofcina,,Secretaria,1,Bueno
-528,Basurero,Marca: Reyplast,Secretaria,1,Bueno
-529,Ventilador,Marca: Imaco,Secretaria,1,Bueno
-530,Radio,Marca: Philips,Secretaria,1,Bueno
-531,Estante Melamina,5 repisas,Secretaria,1,Bueno
-532,Perforador,Marca: Artesco,Secretaria,1,Bueno
-533,Estante de metal gris,2 puertas,Secretaria,1,Bueno
-534,Banca acolchada,4 asientos,Secretaria,1,Bueno
-535,Cesto Nadine grande,Marca: Reyplast,Secretaria,1,Bueno
-536,Espejo,,Secretaria,1,Bueno
-537,Bancas,Madera,Templo Chico,4,Aceptable
-538,Diezmero,Madera,Templo Chico,1,Bueno
-539,Ventilador,Marca: Miray VMP-521,Templo Chico,4,Bueno
-540,Mesa,Madera,Templo Chico,1,Bueno
-541,Pulpito,Madera - Color: Azul,Templo Chico,1,Bueno
-542,Consola de sonido,Marca: Lexsen,Templo Chico,1,Utilizable
-543,Parlante de Sonido,,Templo Chico,1,Bueno
-544,Armario MED,Material: Melamina,Templo Chico,1,Bueno
-545,Armario MED,Material: Madera,Templo Chico,1,Bueno
-546,Armario MNI,Material: Melamina,Templo Chico,1,Bueno
-547,Armario Ujieres,Material: Melamina,Templo Chico,1,Bueno
-548,Escaleras metal,Material: Acero - Escalones: madera,Templo principal,2,Bueno
-549,Altar,Material: Madera,Templo principal,2,Bueno
-550,Pulpito,Material: madera - Color: Azul,Templo principal,1,Bueno
-551,Bancas,Material: Cedro,Templo principal,4,Bueno
-552,Bancas rayadas,Sin respaldar,Templo principal,2,Bueno
-553,Tachos de basura,Colores: Blanco - Marron y Azul,Templo principal,3,Bueno
-554,Caballetes,Cemento,Templo principal,4,Bueno
-555,Periodicos murales,,Templo principal,3,Bueno
-556,Tarjetero de diezmos,,Templo principal,1,Bueno
-557,Escalera metal gigante,,Templo principal,1,Bueno
-558,Ventiladores,Marca: Wurden,Templo principal,6,Bueno
-559,Guitarra,Marrón - cuerdas de nylon,Ujieres,1,Bueno
-560,Guitarra,Negra - cuerdas de nylon,Ujieres,1,Bueno
-561,Charango,Madera,Ujieres,1,Bueno
-562,Bandolina,Estuche negro,Ujieres,1,Bueno
-563,Quena,Color verde,Ujieres,1,Bueno
-564,Quena,Color madera,Ujieres,1,Bueno
-565,Palo de lluvia,,Ujieres,1,Bueno
-566,Zampoña,Mediana,Ujieres,1,Bueno
-567,Zampoña,Grande,Ujieres,1,Bueno
-568,Bombo,Color madera claro,Ujieres,1,Bueno
-569,Bombo,Color madera oscuro,Ujieres,1,Bueno
-570,Armario,Madera - 2 puertas y 8 cajones,Ujieres,7,Bueno
-571,Ternos,Mujeres y hombres,Ujieres,3,Bueno
-572,Polos ,,Ujieres,3,Bueno
-573,Porta-altar,,Ujieres,1,Bueno
-574,Jarra eléctrica,Marca: actika,Ujieres,12,Bueno
-575,Juego de vasos,,Ujieres,1,Bueno
+435,Himnario Gracia y Devoción,,MNI,1,Bueno
+436,Himnario Gracia y Devoción,,MNI,1,Bueno
+437,Himnario Gracia y Devoción,,MNI,1,Bueno
+438,Himnario Gracia y Devoción,,MNI,1,Bueno
+439,Himnario Gracia y Devoción,,MNI,1,Bueno
+440,Juego de letras,,MNI,1,Bueno
+441,Alfombra para el altar,,MNI,1,Bueno
+442,Engrapadora,,MNI,1,Bueno
+443,Libro de actas MNI 2010-2011,,MNI,1,Bueno
+444,Himnario Gracia y Devoción,,MNI,1,Bueno
+445,Libro de actas MNI 2003-2010,,MNI,1,Bueno
+446,Libro de actas MNI 2006-2012,,MNI,1,Bueno
+447,Libro de actas MNI 2010-2017,,MNI,1,Bueno
+448,Libro de actas MNI 1987-2003,,MNI,1,Bueno
+449,Manual Iglesia del Nazareno 2017-2021,Literatura,MNI,1,Bueno
+450,Historia de la Iglesia del Nazareno en el Perú,Literatura,MNI,1,Bueno
+451,El Camino hacia el matrimonio feliz,Literatura,MNI,1,Bueno
+452,Guía de Educación Misionera 2011,Literatura,MNI,1,Bueno
+453,Guía de Educación Misionera 2017-2018,Literatura,MNI,1,Bueno
+454,Guía de Educación Misionera 2002,Literatura,MNI,1,Bueno
+455,Cancionero con acordes,Literatura,MNI,1,Bueno
+456,La historia más immportante del mundo,Literatura,MNI,1,Bueno
+457,Humo que truena,Literatura,MNI,1,Bueno
+458,Himnario Gracia y Devoción,,MNI,1,Bueno
+459,Himnario Gracia y Devoción,,MNI,1,Bueno
+460,Himnario Gracia y Devoción,,MNI,1,Bueno
+461,Himnario Gracia y Devoción,,MNI,1,Bueno
+462,Anya@Rusia.com,Literatura,MNI,1,Bueno
+463,Canasta para ofrenda,,MNI,1,Bueno
+464,Canasta para ofrenda,,MNI,1,Bueno
+465,Armario,,MNI,1,Bueno
+466,Escritorio de oficina,,Oficina Pastoral,1,Bueno
+467,Sillón de Oficina,,Oficina Pastoral,1,Bueno
+468,Estante Madera,5 repisas,Oficina Pastoral,1,Bueno
+469,Estante Melamina,13 repisas,Oficina Pastoral,1,Bueno
+470,Lockers de metal,16 cajones,Oficina Pastoral,1,Bueno
+471,Sillas de madera,,Oficina Pastoral,2,Bueno
+472,Armario de madera,,Oficina Pastoral,2,Bueno
+473,Cooler para laptop,,Oficina Pastoral,1,Bueno
+474,Laptop,Marca: HP,Oficina Pastoral,1,Bueno
+475,Monitor Samsung,,Oficina Pastoral,1,Bueno
+476,CPU,Marca: Samsung,Oficina Pastoral,2,Bueno
+477,Fuente de poder,,Oficina Pastoral,2,Bueno
+478,Web Cam,,Oficina Pastoral,1,Bueno
+479,Teclado,Marca: Philips,Oficina Pastoral,1,Bueno
+480,Ventilador,Marca: Imaco,Oficina Pastoral,1,Bueno
+481,Jarra eléctrica,,Oficina Pastoral,1,Bueno
+482,Mouse,Marca: Samsung,Oficina Pastoral,1,Bueno
+483,Tacho de basura, Pequeño de pie,Oficina Pastoral,1,Bueno
+484,Reloj digital,,Oficina Pastoral,1,Bueno
+485,Pizarra mediana,,Oficina Pastoral,1,Bueno
+486,Sillas Blancas,,Oficina Pastoral,6,Bueno
+487,Impresora,Marca: Epson L3150,Oficina Pastoral,1,Bueno
+488,Sillas Individuales,Estructura de metal con trablero y respaldar de madera,Salon de adolescentes,9,Bueno
+489,Pizarra acrilica,,Salon de adolescentes,1,Bueno
+490,Cesto de ropa,Multiusos redondo - Marca: Rey,Salon de adolescentes,1,Bueno
+491,Cesto gigante,Marca: Trebol,Salon de adolescentes,1,Bueno
+492,Ventilador,Marca: Khor,Salon de adolescentes,1,Bueno
+493,Trípode,Marca: Roadtrip,Salón de juntas,1,Bueno
+494,Micrófono de estudio (Transmisión),Marca: BEHRINGER color dorado,Salón de juntas,1,Bueno
+495,Set de Luces de fotografía,Marca: Genérico,Salón de juntas,1,Bueno
+496,Mesa roja,,Salón de juntas,1,Bueno
+497,Armario rojo,(locker),Salón de juntas,1,Bueno
+498,Armario DNI,Material: Melamina,Salón de juntas,1,Bueno
+499,Mesas,Melamina,Salón de juntas,6,Bueno
+500,Sillas,,Salón de juntas,20,Bueno
+501,Pizarra acrilica,,Salon Luminares de Cristo,1,Bueno
+502,Mesas amarillas,Hechas de madera,Salon Luminares de Cristo,5,Bueno
+503,Sillas amarillas,Hechas de madera,Salon Luminares de Cristo,5,Bueno
+504,Ventilador,Marca: Imaco,Salon Luminares de Cristo,1,Aceptable
+505,Sillas madera,Para maestros,Salon Luminares de Cristo,2,Bueno
+506,Caja,Botiquin,Salon Luminares de Cristo,1,Aceptable
+507,Pizarra acrilica,,Salon Mas que vencedores,1,Bueno
+508,Mesa blanca,Uso del maestro,Salon Mas que vencedores,1,Bueno
+509,Sillas Individuales,Estructura de metal con trablero y respaldar de madera,Salon Mas que vencedores,12,Bueno
+510,Ventilador,Marca: Miray VMP-521,Salon Mas que vencedores,1,Bueno
+511,Armario de madera,Puerta vidrio y madera,Salon Mas que vencedores,1,Bueno
+512,Papelera Cosmos,Marca: Rey - tamaño: #15,Salon Mas que vencedores,1,Bueno
+513,Silla madera,,Secretaria,1,Bueno
+514,Mesa pequeña,,Secretaria,1,Bueno
+515,Estante de pared,2 puertas,Secretaria,1,Bueno
+516,Lockers de metal,4 cajones,Secretaria,1,Bueno
+517,Gillotina,,Secretaria,1,Bueno
+518,Llavero,Madera,Secretaria,1,Bueno
+519,Fotocopiadora,Marca: Konica Minolta Bizhub 215,Secretaria,1,Bueno
+520,Soporte de pared,Pequeño,Secretaria,1,Bueno
+521,Telefono,Gigaset,Secretaria,1,Bueno
+522,Mesa blanca,Para fotocopiadora,Secretaria,1,Bueno
+523,Mesa de vidrio,Para computadora e impresora,Secretaria,1,Bueno
+524,Monitor Samsung,SyncMaster 9328w,Secretaria,1,Bueno
+525,Impresora,Marca: Brother DCP-T7200w,Secretaria,1,Bueno
+526,Teclado,Marca: Philips,Secretaria,1,Bueno
+527,Mouse,Marca: Philips,Secretaria,1,Bueno
+528,CPU,Marca: Cooler Master,Secretaria,1,Bueno
+529,Silla de ofcina,,Secretaria,1,Bueno
+530,Basurero,Marca: Reyplast,Secretaria,1,Bueno
+531,Ventilador,Marca: Imaco,Secretaria,1,Bueno
+532,Radio,Marca: Philips,Secretaria,1,Bueno
+533,Estante Melamina,5 repisas,Secretaria,1,Bueno
+534,Perforador,Marca: Artesco,Secretaria,1,Bueno
+535,Estante de metal gris,2 puertas,Secretaria,1,Bueno
+536,Banca acolchada,4 asientos,Secretaria,1,Bueno
+537,Cesto Nadine grande,Marca: Reyplast,Secretaria,1,Bueno
+538,Espejo,,Secretaria,1,Bueno
+539,Bancas,Madera,Templo Chico,4,Aceptable
+540,Diezmero,Madera,Templo Chico,1,Bueno
+541,Ventilador,Marca: Miray VMP-521,Templo Chico,4,Bueno
+542,Mesa,Madera,Templo Chico,1,Bueno
+543,Pulpito,Madera - Color: Azul,Templo Chico,1,Bueno
+544,Consola de sonido,Marca: Lexsen,Templo Chico,1,Utilizable
+545,Parlante de Sonido,,Templo Chico,1,Bueno
+546,Armario MED,Material: Melamina,Templo Chico,1,Bueno
+547,Armario MED,Material: Madera,Templo Chico,1,Bueno
+548,Armario MNI,Material: Melamina,Templo Chico,1,Bueno
+549,Armario Ujieres,Material: Melamina,Templo Chico,1,Bueno
+550,Escaleras metal,Material: Acero - Escalones: madera,Templo principal,2,Bueno
+551,Altar,Material: Madera,Templo principal,2,Bueno
+552,Pulpito,Material: madera - Color: Azul,Templo principal,1,Bueno
+553,Bancas,Material: Cedro,Templo principal,4,Bueno
+554,Bancas rayadas,Sin respaldar,Templo principal,2,Bueno
+555,Tachos de basura,Colores: Blanco - Marron y Azul,Templo principal,3,Bueno
+556,Caballetes,Cemento,Templo principal,4,Bueno
+557,Periodicos murales,,Templo principal,3,Bueno
+558,Tarjetero de diezmos,,Templo principal,1,Bueno
+559,Escalera metal gigante,,Templo principal,1,Bueno
+560,Ventiladores,Marca: Wurden,Templo principal,6,Bueno
+561,Guitarra,Marrón - cuerdas de nylon,Ujieres,1,Bueno
+562,Guitarra,Negra - cuerdas de nylon,Ujieres,1,Bueno
+563,Charango,Madera,Ujieres,1,Bueno
+564,Bandolina,Estuche negro,Ujieres,1,Bueno
+565,Quena,Color verde,Ujieres,1,Bueno
+566,Quena,Color madera,Ujieres,1,Bueno
+567,Palo de lluvia,,Ujieres,1,Bueno
+568,Zampoña,Mediana,Ujieres,1,Bueno
+569,Zampoña,Grande,Ujieres,1,Bueno
+570,Bombo,Color madera claro,Ujieres,1,Bueno
+571,Bombo,Color madera oscuro,Ujieres,1,Bueno
+572,Armario,Madera - 2 puertas y 8 cajones,Ujieres,1,Bueno
+573,Ternos,Mujeres y hombres,Ujieres,7,Bueno
+574,Polos ,,Ujieres,12,Bueno
+575,Porta-altar,,Ujieres,3,Bueno
+576,Jarra eléctrica,Marca: actika,Ujieres,1,Bueno
+577,Juego de vasos,,Ujieres,1,Bueno
